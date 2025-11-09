@@ -1,6 +1,3 @@
-
-\<div align="center"\>
-
 # 💳 Fraud Detection - UMP1 Project
 
 **A machine learning model to detect fraudulent transactions.**
@@ -9,11 +6,6 @@
 [](https://scikit-learn.org/)
 [](https://pandas.pydata.org/)
 [](https://jupyter.org/)
-
-\</div\>
-
------
-
 ## 📖 Overview
 
 This repository contains the code and analysis for a fraud detection project, part of the UMP1 curriculum. The primary goal is to build a machine learning model that can accurately identify fraudulent credit card transactions from a given dataset. This is a classic example of an **imbalanced classification problem**, as fraudulent transactions are typically very rare.
@@ -108,12 +100,8 @@ A comparison of the models tested:
 | **`[Your Best Model]`** | **`[Score]`** | **`[Score]`** | **`[Score]`** | **`[Score]`** |
 
 The `[Your Best Model]` was selected as the final model due to its superior performance in `[e.g., correctly identifying fraudulent transactions (Recall) while maintaining reasonable precision]`.
-
------
-
 ## 👤 Author
 
 **Jeimeen Chaudhari**
 
   * **GitHub:** [@JeimeenChaudhari](https://www.google.com/search?q=https://github.com/JeimeenChaudhari)
-  * **LinkedIn:** `[Your LinkedIn URL (Optional)]`
