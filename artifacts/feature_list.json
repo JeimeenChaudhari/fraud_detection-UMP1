@@ -1,0 +1,20 @@
+[
+  "TX_AMOUNT",
+  "amount_log",
+  "hour",
+  "day_of_week",
+  "is_weekend",
+  "day_of_month",
+  "month",
+  "cust_avg_amount",
+  "cust_std_amount",
+  "cust_tx_count",
+  "cust_fraud_count",
+  "terminal_avg_amount",
+  "terminal_tx_count",
+  "terminal_fraud_count",
+  "amount_to_cust_avg_ratio",
+  "amount_to_terminal_avg_ratio",
+  "cust_tx_count_24h",
+  "terminal_tx_count_24h"
+]

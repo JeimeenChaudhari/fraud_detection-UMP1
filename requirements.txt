@@ -1,0 +1,34 @@
+# Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.23.0
+scipy>=1.9.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+xgboost>=1.7.0
+imbalanced-learn>=0.10.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+plotly>=5.11.0
+
+# Web Application
+streamlit>=1.28.0
+
+# Model Serialization
+pickle5>=0.0.12
+joblib>=1.2.0
+
+# Utilities
+python-dateutil>=2.8.2
+pytz>=2022.6
+
+# Optional: Advanced Explainability
+shap>=0.42.0
+
+# Optional: Progress bars
+tqdm>=4.64.0
+
+# Optional: Image handling
+Pillow>=9.3.0

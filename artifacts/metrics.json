@@ -1,0 +1,7 @@
+{
+  "auprc": 0.533608847067191,
+  "roc_auc": 0.9894885938759828,
+  "test_samples": 350831,
+  "fraud_count": 2936,
+  "feature_count": 18
+}
